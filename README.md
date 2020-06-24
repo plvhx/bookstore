@@ -1,0 +1,1 @@
+Sample 'book store' app using api platform.
